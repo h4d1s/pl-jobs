@@ -1,0 +1,44 @@
+.pl-list {
+  $parent: &;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  &-item {
+    margin-bottom: 24px;
+
+    &:last-child {
+      border: 0;
+      padding-bottom: 0;
+    }
+
+    &-icon {
+      margin-right: 6px;
+      display: inline-block;
+    }
+  }
+
+  &-horizontal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    #{$parent}-item {
+      &::after {
+        margin: 0 4px;
+        content: '\2022';
+      }
+      &:last-child {
+        &::after {
+          display: none;
+        }
+      }
+    }
+  }
+
+  &-padded {
+    #{$parent}-item {
+      margin: 4px 0;
+    }
+  }
+}

@@ -1,0 +1,7 @@
+.pl-jobs-list > div {
+    border-bottom: 1px solid #ccc;
+
+    &:last-child {
+        border: 0;
+    }
+}

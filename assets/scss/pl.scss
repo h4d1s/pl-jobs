@@ -1,0 +1,46 @@
+
+@import "variables";
+
+@import "components/grid";
+@import "components/list";
+@import "components/job-list";
+@import "components/tabs";
+@import "components/pagination";
+@import "components/form-group";
+@import "components/btn";
+
+@import "utilities";
+
+.pl-btn,
+.pl-input,
+.pl-select {
+  padding: 0.5rem 0.7rem;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.pl-label {
+  cursor: pointer;
+}
+
+.pl-jobs-filters {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Form control */
+
+.pl-form-control {
+  display: block;
+  width: 100%;
+}
+
+.pl-feedback {
+  &-invalid {
+    color: #DC3232;
+  }
+  &-valid {
+    color: #46B450;
+  }
+}

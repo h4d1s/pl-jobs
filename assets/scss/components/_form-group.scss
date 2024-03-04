@@ -1,0 +1,33 @@
+.pl-input-group {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    position: relative;
+    margin-bottom: 12px;
+  
+    &-repeater {
+      width: 100%;
+    }
+  
+    &-checkbox {
+      label {
+        margin-bottom: 0;
+      }
+    }
+  
+    label {
+      //display: inline-block;
+      display: block;
+      width: 100%;
+      margin-bottom: 6px;
+    }
+  
+    .pl-form-control {
+      position: relative;
+      flex: 1 1 auto;
+      min-width: 0;
+      font-family: inherit;
+    }
+  }
+  

@@ -1,0 +1,31 @@
+.pl-tabs {
+  &-nav {
+    display: flex;
+    justify-content: space-around;
+
+    &-tab {
+      width: 100%;
+      padding: 12px;
+      text-align: center;
+      text-decoration: none;
+      border-top-left-radius: 6px;
+      border-top-right-radius: 6px;
+
+      &:focus {
+        box-shadow: none;
+      }
+
+      &.active {
+        background: #e3e3e5;
+        box-shadow: none;
+      }
+    }
+  }
+  &-pane {
+    display: none !important;
+
+    &.active {
+      display: block !important;
+    }
+  }
+}

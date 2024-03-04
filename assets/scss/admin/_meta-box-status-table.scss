@@ -1,0 +1,45 @@
+/* Application Meta box: Status table */
+
+.pl-jobs-table-status {
+  width: 100%;
+  text-align: left;
+  vertical-align: top;
+
+  &-header {
+    width: 50%;
+    vertical-align: top;
+    padding: 3px 0;
+  }
+
+  &-cell {
+    padding: 3px 0;
+  }
+}
+
+.pl-jobs-table-applicant {
+  width: 100%;
+  text-align: left;
+
+  &-header {
+    width: 25%;
+    vertical-align: top;
+    padding: 8px 0;
+  }
+
+  &-cell {
+    padding: 8px 0;
+  }
+}
+
+.post-type-pl_job_application {
+  #post-body-content {
+    margin-bottom: 0;
+  }
+  #pl_jobs_application_applicant_box .postbox-header {
+    display: none;
+  }
+}
+
+.pl-dashicons-before:before {
+  color: #8c8f94;
+}

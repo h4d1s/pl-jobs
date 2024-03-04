@@ -1,0 +1,83 @@
+/* Settings page */
+
+.pl_job_post_page_pl-jobs-settings #wpcontent {
+  padding-left: 0;
+}
+
+.pl-settings {
+
+  // Tabs
+
+  .subsubsub li {
+    &::after {
+      content: "|";
+    }
+    &:last-child {
+      &::after {
+        display: none;
+      }
+    }
+  }
+
+  // Header
+
+  &-header {
+    margin: 0 0 1rem;
+    background: #fff;
+    border-bottom: 1px solid #dcdcde;
+  }
+  &-title-section {
+    display: flex;
+    align-items: center;
+    clear: both;
+    margin: 0 20px;
+    padding: 8px 0 0 0;
+
+    &-heading {
+      font-weight: 600;
+      margin: 0 1rem 1rem 0;
+      padding: 9px 0 4px 0;
+      font-size: 23px;
+      line-height: 1.3;
+    }
+  }
+  &-tabs-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 0 20px;
+  }
+  &-tab {
+    display: block; /* IE 11 */
+    text-decoration: none;
+    color: inherit;
+    padding: 0.5rem 1.5rem 1rem;
+    transition: box-shadow 0.5s ease-in-out;
+
+    &:first-child,
+    &:last-child {
+      margin: 0;
+    }
+
+    &:focus {
+      color: #1d2327;
+      outline: 1px solid #787c82;
+      box-shadow: none;
+    }
+    &.active {
+      box-shadow: inset 0 -3px #000000;
+      font-weight: 600;
+    }
+  }
+
+  /* Body */
+
+  &-body {
+    margin: 0 20px;
+  }
+
+  .hr-separator {
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+}

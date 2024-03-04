@@ -1,0 +1,47 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.pl-filter {
+  margin-bottom: 12px;
+}
+.pl-filter-attribute {
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.pl-result-count {
+  padding-bottom: 0.8rem;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 2rem;
+}
+
+.pl-heading {
+  margin-top: 0;
+}
+
+/* Pagination */
+.pl-jobs-list-item {
+  margin: 1rem 0;
+}
+.pl-jobs-list-item-header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+.pl-jobs-list-item-date {
+  display: block;
+  margin: 0;
+  margin-left: auto;
+}
+.pl-jobs .page-numbers {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.pl-jobs .page-numbers li {
+  display: inline-block;
+  margin: 0 0.3rem;
+}
+
+/*# sourceMappingURL=pl-jobs.css.map */

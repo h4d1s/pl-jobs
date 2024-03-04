@@ -1,0 +1,948 @@
+# Copyright (C) 2024 Pixel Labs
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: PL Jobs 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pl-jobs\n"
+"POT-Creation-Date: 2024-03-03 16:55:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/application/class-pl-jobs-application-cpt.php:35
+msgid "Applied <span class=\"count\">(%s)</span>"
+msgid_plural "Applied <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:43
+msgid "Hired <span class=\"count\">(%s)</span>"
+msgid_plural "Hired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:51
+msgid "Interviewed <span class=\"count\">(%s)</span>"
+msgid_plural "Interviewed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:59
+msgid "Rejected <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:67
+msgid "Qualified <span class=\"count\">(%s)</span>"
+msgid_plural "Qualified <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:92
+#: includes/post/class-pl-jobs-post-cpt.php:50
+msgid "%s Archives"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:93
+#: includes/post/class-pl-jobs-post-cpt.php:51
+msgid "%s Attributes"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:94
+#: includes/post/class-pl-jobs-post-cpt.php:52
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:96
+#: includes/post/class-pl-jobs-post-cpt.php:54
+msgid "Add New %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:97
+#: includes/post/class-pl-jobs-post-cpt.php:55
+msgid "Add New"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:98
+#: includes/post/class-pl-jobs-post-cpt.php:56
+msgid "New %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:99
+#: includes/post/class-pl-jobs-post-cpt.php:57
+msgid "Edit %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:100
+#: includes/post/class-pl-jobs-post-cpt.php:58
+msgid "Update %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:101
+#: includes/application/class-pl-jobs-application-cpt.php:102
+#: includes/post/class-pl-jobs-post-cpt.php:59
+#: includes/post/class-pl-jobs-post-cpt.php:60
+msgid "View %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:103
+#: includes/post/class-pl-jobs-post-cpt.php:61
+msgid "Search %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:104
+#: includes/post/class-pl-jobs-post-cpt.php:62
+msgid "Not found"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:105
+#: includes/post/class-pl-jobs-post-cpt.php:63
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:106
+#: includes/post/class-pl-jobs-post-cpt.php:64
+msgid "Featured Image"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:107
+#: includes/post/class-pl-jobs-post-cpt.php:65
+msgid "Set featured image"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:108
+#: includes/post/class-pl-jobs-post-cpt.php:66
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:109
+#: includes/post/class-pl-jobs-post-cpt.php:67
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:110
+#: includes/post/class-pl-jobs-post-cpt.php:68
+msgid "Insert into %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:111
+#: includes/post/class-pl-jobs-post-cpt.php:69
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:112
+#: includes/post/class-pl-jobs-post-cpt.php:70
+msgid "%s list"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:113
+#: includes/post/class-pl-jobs-post-cpt.php:71
+msgid "%s list navigation"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:114
+#: includes/post/class-pl-jobs-post-cpt.php:72
+msgid "Filter %s list"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:118
+msgid "%s Description"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:38
+#: includes/application/class-pl-jobs-application-post.php:158
+msgid "There was an error applying."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:47
+msgid "Fullname is required."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:68
+msgid "Already registered."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:71
+msgid "Email is not valid."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:74
+msgid "Email is required."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:83
+msgid "Phone is not valid."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:92
+msgid "Cover letter is not valid."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:114
+msgid "There was an error adding CV file."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-post.php:120
+msgid "CV is required."
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:36
+msgid "Name"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:37
+msgid "Email"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:38
+msgid "Phone"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:39
+msgid "Job"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:40
+#: includes/post/class-pl-jobs-post-cpt.php:288
+msgid "Status"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:41
+msgid "Country"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:42
+msgid "Date Submitted"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:68
+msgid "N/A"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:95
+msgid "View"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:106
+msgid "Reject"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-posts.php:107
+msgid "Hire"
+msgstr ""
+
+#: includes/application/meta-boxes/class-pl-jobs-application-meta-box-applicant.php:23
+msgid "Applicant"
+msgstr ""
+
+#: includes/application/meta-boxes/class-pl-jobs-application-meta-box-notes.php:24
+msgid "Notes"
+msgstr ""
+
+#: includes/application/meta-boxes/class-pl-jobs-application-meta-box-publish.php:24
+msgid "Publish"
+msgstr ""
+
+#: includes/application/views/html-meta-box-applicant.php:21
+#: templates/single-job/form-apply.php:59
+msgid "Email:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-applicant.php:28
+#: templates/single-job/form-apply.php:73
+msgid "Phone:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-applicant.php:35
+msgid "CV/Resume:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-applicant.php:38
+msgid "Download CV"
+msgstr ""
+
+#: includes/application/views/html-meta-box-applicant.php:47
+#: templates/single-job/form-apply.php:86
+msgid "Cover letter:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:21
+msgid "Status:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:25
+msgid "Edit"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:28
+msgid "Edit status"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:38
+msgid "Set status"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:51
+msgid "OK"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:54
+msgid "Cancel"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:59
+msgid "Job:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:65
+msgid "Submitted on:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:71
+msgid "IP:"
+msgstr ""
+
+#: includes/application/views/html-meta-box-publish.php:92
+#: includes/application/views/html-meta-box-publish.php:94
+msgid "Update"
+msgstr ""
+
+#: includes/class-pl-jobs-assets.php:49
+msgid "Please enter a valid phone number."
+msgstr ""
+
+#: includes/class-pl-jobs-assets.php:63
+msgid "Thank you for applying."
+msgstr ""
+
+#: includes/class-pl-jobs-assets.php:64 templates/single-job/form-apply.php:114
+msgid "Submit"
+msgstr ""
+
+#: includes/class-pl-jobs-assets.php:65
+msgid "Submitting..."
+msgstr ""
+
+#: includes/class-pl-jobs-assets.php:66
+msgid "Submitted"
+msgstr ""
+
+#: includes/class-pl-jobs-roles.php:32
+msgid "HR"
+msgstr ""
+
+#: includes/class-pl-jobs-utils.php:108
+msgid "< 1 min"
+msgstr ""
+
+#: includes/class-pl-jobs-utils.php:110
+msgid "few seconds ago"
+msgstr ""
+
+#: includes/class-pl-jobs-utils.php:118
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-pl-upload.php:37
+msgid "There was an error uploading CV file."
+msgstr ""
+
+#: includes/class-pl-upload.php:40
+msgid "CV file type is not allowed."
+msgstr ""
+
+#: includes/class-pl-upload.php:43
+msgid "CV file not found."
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:53
+msgid "All %s"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:118
+msgid "Job Types"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:119
+msgid "All Job Types"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:120
+msgid "Parent Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:121
+msgid "Parent Job Type:"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:122
+msgid "New Job Type Name"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:123
+msgid "Add New Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:124
+msgid "Edit Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:125
+msgid "Update Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:126
+msgid "View Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:127
+msgid "Separate job type with commas"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:128
+msgid "Add or remove job type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:129
+#: includes/post/class-pl-jobs-post-cpt.php:206
+#: includes/post/class-pl-jobs-post-cpt.php:252
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:130
+msgid "Popular Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:131
+msgid "Search Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:132
+#: includes/post/class-pl-jobs-post-cpt.php:209
+#: includes/post/class-pl-jobs-post-cpt.php:255
+msgid "Not Found"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:133
+msgid "No job type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:134
+msgid "Job Types list"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:135
+msgid "Job Types list navigation"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:163
+msgid "Freelance"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:164
+msgid "Fulltime"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:165
+msgid "Internship"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:166
+msgid "Part Time"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:167
+msgid "Temporary"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:195
+msgid "Job Categories"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:196
+msgid "All Job Categories"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:197
+msgid "Parent Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:198
+msgid "Parent Job Category:"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:199
+msgid "New Job Category Name"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:200
+msgid "Add New Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:201
+msgid "Edit Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:202
+msgid "Update Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:203
+msgid "View Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:204
+msgid "Separate job category with commas"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:205
+msgid "Add or remove job category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:207
+msgid "Popular Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:208
+msgid "Search Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:210
+msgid "No job category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:211
+msgid "Job Category list"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:212
+msgid "Job Category list navigation"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:241
+msgid "Job Locations"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:242
+msgid "All Job Locations"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:243
+msgid "Parent Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:244
+msgid "Parent Job Location:"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:245
+msgid "New Job Location Name"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:246
+msgid "Add New Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:247
+msgid "Edit Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:248
+msgid "Update Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:249
+msgid "View Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:250
+msgid "Separate job location with commas"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:251
+msgid "Add or remove job location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:253
+msgid "Popular Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:254
+msgid "Search Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:256
+msgid "No job location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:257
+msgid "Job Location list"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:258
+msgid "Job Location list navigation"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:285
+msgid "Job Title"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:286
+msgid "Applications"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:287
+msgid "Views"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:306
+#: includes/post/class-pl-jobs-post.php:223
+msgid "Active"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:306
+#: includes/post/class-pl-jobs-post.php:227
+msgid "Expired"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post.php:219
+msgid "All Statuses"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post.php:233
+msgid "All Locations"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post.php:242
+msgid "All Categories"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post.php:251
+msgid "All Types"
+msgstr ""
+
+#: includes/template-functions.php:147
+#. translators: %s: post title
+msgid "Continue reading %s"
+msgstr ""
+
+#: includes/template-functions.php:156
+msgid "Pages:"
+msgstr ""
+
+#: includes/template-functions.php:187
+msgid "Edit this job"
+msgstr ""
+
+#: templates/content-none.php:24
+#. translators: 1: URL
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content-none.php:34
+msgid "Nothing found."
+msgstr ""
+
+#: templates/global/job-filters.php:19
+msgid "Choose..."
+msgstr ""
+
+#: templates/global/job-filters.php:20
+msgid "Last day"
+msgstr ""
+
+#: templates/global/job-filters.php:21
+msgid "Last three days"
+msgstr ""
+
+#: templates/global/job-filters.php:22
+msgid "Last week"
+msgstr ""
+
+#: templates/global/job-filters.php:23
+msgid "Last month"
+msgstr ""
+
+#: templates/global/job-filters.php:49
+msgid "Publication date"
+msgstr ""
+
+#: templates/global/job-filters.php:71
+msgid "Location"
+msgstr ""
+
+#: templates/global/job-filters.php:103
+msgid "Categories"
+msgstr ""
+
+#: templates/global/job-filters.php:135
+msgid "Contract type"
+msgstr ""
+
+#: templates/global/job-filters.php:166
+msgid "Filter"
+msgstr ""
+
+#: templates/global/job-search-form.php:16
+#: templates/global/job-search-form.php:28
+msgid "Search"
+msgstr ""
+
+#: templates/global/job-search-form.php:24
+msgid "Search jobs..."
+msgstr ""
+
+#: templates/loop/result-count.php:21
+msgid "Showing the single result"
+msgstr ""
+
+#: templates/loop/result-count.php:24
+#. translators: %d: total results
+msgid "Showing %d result"
+msgid_plural "Showing %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/single-job/form-apply.php:17
+msgid "Closed for applications."
+msgstr ""
+
+#: templates/single-job/form-apply.php:28
+msgid "Successfully applied!"
+msgstr ""
+
+#: templates/single-job/form-apply.php:45
+msgid "Full Name:"
+msgstr ""
+
+#: templates/single-job/form-apply.php:48
+msgid "e.g. John Doe"
+msgstr ""
+
+#: templates/single-job/form-apply.php:62
+msgid "e.g. johndoe@example.com"
+msgstr ""
+
+#: templates/single-job/form-apply.php:75
+msgid "e.g. +1 123 754 3010"
+msgstr ""
+
+#: templates/single-job/form-apply.php:100
+msgid "Upload CV/Resume:"
+msgstr ""
+
+#: templates/single-job/form-apply.php:104
+msgid "Allowed Type(s): .pdf, .doc, .docx"
+msgstr ""
+
+#: templates/single-job/meta.php:18
+msgid "TYPE:"
+msgstr ""
+
+#: templates/single-job/meta.php:29
+msgid "CATEGORY:"
+msgstr ""
+
+#: templates/single-job/meta.php:40
+msgid "LOCATION:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PL Jobs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pixel Labs"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:34
+msgctxt "pixel-labs"
+msgid "Applied"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:42
+msgctxt "pixel-labs"
+msgid "Hired"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:50
+msgctxt "pixel-labs"
+msgid "Interviewed"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:58
+msgctxt "pixel-labs"
+msgid "Rejected"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:66
+msgctxt "pixel-labs"
+msgid "Qualified"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:84
+msgctxt "Application General Name"
+msgid "Application"
+msgstr ""
+
+#: includes/application/class-pl-jobs-application-cpt.php:85
+msgctxt "Application Singular Name"
+msgid "Applications"
+msgstr ""
+
+#: includes/class-pl-jobs-utils.php:63
+msgctxt "years"
+msgid "%dy"
+msgid_plural "%dy"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:65
+msgctxt "years"
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:72
+msgctxt "months"
+msgid "%dm"
+msgid_plural "%dm"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:74
+msgctxt "months"
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:81
+msgctxt "days"
+msgid "%dd"
+msgid_plural "%dd"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:83
+msgctxt "days"
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:90
+msgctxt "hours"
+msgid "%dh"
+msgid_plural "%dh"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:92
+msgctxt "hours"
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:98
+msgctxt "minutes"
+msgid "%dm"
+msgid_plural "%dm"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-pl-jobs-utils.php:100
+msgctxt "minutes"
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:42
+msgctxt "Job Singular Name"
+msgid "Job"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:43
+msgctxt "Job General Name"
+msgid "Jobs"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:116
+msgctxt "Taxonomy General Name"
+msgid "Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:193
+msgctxt "Taxonomy General Name"
+msgid "Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:239
+msgctxt "Taxonomy General Name"
+msgid "Job Location"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:117
+msgctxt "Taxonomy Singular Name"
+msgid "Job Type"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:194
+msgctxt "Taxonomy Singular Name"
+msgid "Job Category"
+msgstr ""
+
+#: includes/post/class-pl-jobs-post-cpt.php:240
+msgctxt "Taxonomy Singular Name"
+msgid "Job Location"
+msgstr ""
+
+#: templates/global/total-count.php:18
+msgctxt "number of jobs"
+msgid "There is %s job open."
+msgid_plural "There are %s jobs open."
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/loop/result-count.php:29
+#. translators: 1: first result 2: last result 3: total results
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
